@@ -30,7 +30,7 @@ CompanyName = 'Ironman Software, LLC'
 Copyright = 'Ironman Software, 2019'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'Universal Dashboard REST API Generator for PowerShell'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
